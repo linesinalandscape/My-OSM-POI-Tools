@@ -1,0 +1,10 @@
+# Ignore virtual environment files
+.venv/
+# Ignore compiled Python files
+*.pyc
+# Ignore editor-specific files
+.vscode/
+# Ignore output
+output/
+# ignore jupyter checkpoints
+.ipynb_checkpoints/
